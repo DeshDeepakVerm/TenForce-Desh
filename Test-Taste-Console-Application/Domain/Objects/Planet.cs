@@ -26,6 +26,7 @@ namespace Test_Taste_Console_Application.Domain.Objects
                 {
                     Moons.Add(new Moon(moonDto));
                 }
+                //
             }
         }
 
